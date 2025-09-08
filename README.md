@@ -8,7 +8,7 @@ This course covers the fundamentals of HTML5 and CSS3 and gradually introduces m
 
 ## Structure
 
-Each folder corresponds to a section/module in the course:
+Each folder corresponds to a section/module in the course.
 
 ## Course Link
 
